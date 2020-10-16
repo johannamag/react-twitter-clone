@@ -16,7 +16,7 @@ function Widgets() {
       </div>
       <div className="widgets__widgetContainer">
         <h2>What is up?</h2>
-        <TwitterTweetEmbed tweetId={"858551177860055040"} />
+        <TwitterTweetEmbed tweetId={"1308618501062422528"} />
         <TwitterTimelineEmbed
           sourceType="profile"
           screenName="madebygoogle"

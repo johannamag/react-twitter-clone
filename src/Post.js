@@ -29,7 +29,7 @@ function Post({ displayName, userName, verified, text, image, avatar }) {
             <p>{text}</p>
           </div>
         </div>
-        <img src={image} alt="gif" />
+        <img src={image} />
         <div className="post__footer">
           <ChatBubbleOutlineIcon fontSize="small" />
           <RepeatIcon fontSize="small" />
